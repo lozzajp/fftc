@@ -22,7 +22,7 @@
           - Final Fantasy I `[FFC.FFI.MG.MG1]`
           - Final Fantasy II `[FFC.FFII.MG.MG1]`
           - FFI Origins' FMVs `[FFC.FFI.EC.EC3]`
-          - FFII Origins' FMVs `[FFC.FFII.EC.EC2]`
+          - FFII Origins' FMVs `[FFC.FFII.EC.EC3]`
         - Final Fantasy VII `(STD)`
           - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
         - Final Fantasy VII International `(INTL)`
@@ -40,6 +40,11 @@
           - Soul of Chaos `[FFC.FFI.EC.EC1]`
           - Labyrinth of Time `[FFC.FFI.EC.EC2]`
           - FFI Origins' FMVs `[FFC.FFI.EC.EC3]`
+        - Final Fantasy II `(STD)`
+          - Final Fantasy II `[FFC.FFII.MG.MG1]`
+          - Soul of Rebirth `[FFC.FFII.EC.EC1]`
+          - Arcane Labyrinth `[FFC.FFII.EC.EC2]`
+          - FFII Origins' FMVs `[FFC.FFII.EC.EC3]`
       - PS4 `(PS4)`
         - Final Fantasy Pixel Remaster `(STD)`
           - Final Fantasy I `[FFC.FFI.MG.MG1]`
@@ -48,6 +53,10 @@
       - Mobile `(MOB)`
         - Final Fantasy I (Java) `(STD)`
           - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - iOS `(IOS)`
+        - TODO pixel remaster FFI/II
+      - Android `(AND)`
+        - TODO pixel remaster FFI/II
 
   - Books `(BK)`
     - Final Fantasy I * II * III: Memory of Heroes `(BK1)`

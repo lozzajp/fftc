@@ -16,7 +16,8 @@
       - Final Fantasy II `[MG1]`
     - Extra Content `[EC]`
       - Soul of Rebirth `[EC1]`
-      - FFII Origins' FMVs `[EC2]`
+      - Arcane Labyrinth `[EC2]`
+      - FFII Origins' FMVs `[EC3]`
     - Extra Media `[EM]`
       - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
 
