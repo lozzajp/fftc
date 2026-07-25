@@ -1,4 +1,5 @@
 - Final Fantasy Content `[FFC]`
+
   - Final Fantasy I `[FFI]`
     - Mainline Game `[MG]`
       - Final Fantasy I `[MG1]`
@@ -7,11 +8,17 @@
       - Labyrinth of Time `[EC2]`
       - Origins' FMVs `[EC3]`
     - Extra Media `[EM]`
-      - Final Fantasy I (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
+      - Final Fantasy (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
       - Final Fantasy Manga (1989) `[EM2]`
 
   - Final Fantasy II `[FFII]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy II `[MG1]`
+    - Extra Content `[EC]`
+      - Soul of Rebirth `[EC1]`
+      - Origins' FMVs `[EC2]`
+    - Extra Media `[EM]`
+      - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
 
   - Final Fantasy III `[FFIII]`
     - TODO

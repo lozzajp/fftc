@@ -1,0 +1,54 @@
+- Final Fantasy Releases `(FFR)`
+
+  - Video Games `(VG)`
+
+      - Famicom `(FMC)`
+        - Final Fantasy `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+        - Final Fantasy I∙II `(CMP)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+          - Final Fantasy I `[FFC.FFII.MG.MG2]`
+      - MSX2 `(MSX2)`
+        - Final Fantasy `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - NES `(NES)`
+        - Final Fantasy `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - WonderSwan Color `(WSC)`
+        - Final Fantasy `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - PS1 `(PS1)`
+        - Final Fantasy Origins `(CMP)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+          - Final Fantasy II `[FFC.FFII.MG.MG2]`
+          - Origin's FMVS `[FFC.FFI.EC.EC3]`
+        - Final Fantasy VII `(STD)`
+          - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
+        - Final Fantasy VII International `(INTL)`
+          - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
+          - Final Fantasy VII: Perfect Guide ("4th Disc") `[FFC.FFVII.FFVIIOG.EC.EC1]`
+      - GBA `(GBA)`
+        - Final Fantasy I & II: Dawn of Souls `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+          - Soul of Chaos `[FFC.FFI.EC.EC1]`
+          - Final Fantasy I `[FFC.FFII.MG.MG2]`
+          - Soul of Rebirth `[FFC.FFII.EC.EC1]`
+      - PSP `(PSP)`
+        - Final Fantasy `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+          - Soul of Chaos `[FFC.FFI.EC.EC1]`
+          - Labyrinth of Time `[FFC.FFI.EC.EC2]`
+          - Orgins' FMVs `[FFC.FFI.EC.EC3]`
+      - PS4 `(PS4)`
+        - Final Fantasy Pixel Remaster `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+          - Final Fantasy II `[FFC.FFII.MG.MG2]`
+          - // 3-6
+      - Mobile `(MOB)`
+        - Final Fantasy I (Java) `(STD)`
+          - Final Fantasy I `[FFC.FFI.MG.MG1]`
+
+  - Books `(BK)`
+    - Final Fantasy I * II * III: Memory of Heroes `(BK1)`
+        - Final Fantasy (Final Fantasy I * II * III: Memory of Heroes) `[FFC.FFI.EM.EM1]`
+        - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[FFC.FFII.EM.EM1]`
