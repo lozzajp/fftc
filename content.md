@@ -73,6 +73,7 @@
         - LOVELESS - Behind the Scenes x FF7 Rebirth (Ever Crisis) `[SC2]`
         - First Soldier (Ever Crisis) `[SC3]`
         - First Soldier Story Episode: 3 Ex Soldiers (Ever Crisis) `[SC4]`
+        - First Soldier Intro FMV `[SC4]`
 
   - Final Fantasy VIII `[FFVIII]`
     - TODO
