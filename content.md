@@ -6,9 +6,9 @@
     - Extra Content `[EC]`
       - Soul of Chaos `[EC1]`
       - Labyrinth of Time `[EC2]`
-      - Origins' FMVs `[EC3]`
+      - FFI Origins' FMVs `[EC3]`
     - Extra Media `[EM]`
-      - Final Fantasy (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
+      - Final Fantasy I (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
       - Final Fantasy Manga (1989) `[EM2]`
 
   - Final Fantasy II `[FFII]`
@@ -16,7 +16,7 @@
       - Final Fantasy II `[MG1]`
     - Extra Content `[EC]`
       - Soul of Rebirth `[EC1]`
-      - Origins' FMVs `[EC2]`
+      - FFII Origins' FMVs `[EC2]`
     - Extra Media `[EM]`
       - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
 
@@ -80,7 +80,7 @@
         - LOVELESS - Behind the Scenes x FF7 Rebirth (Ever Crisis) `[SC2]`
         - First Soldier (Ever Crisis) `[SC3]`
         - First Soldier Story Episode: 3 Ex Soldiers (Ever Crisis) `[SC4]`
-        - First Soldier Intro FMV `[SC4]`
+        - First Soldier Intro FMV `[SC5]`
 
   - Final Fantasy VIII `[FFVIII]`
     - TODO
