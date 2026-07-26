@@ -8,6 +8,7 @@
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/titles">Titles</RouterLink>
         <RouterLink to="/releases">Releases</RouterLink>
+        <RouterLink to="/checklist">Checklist</RouterLink>
       </nav>
     </header>
     <main>

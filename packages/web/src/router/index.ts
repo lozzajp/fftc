@@ -6,6 +6,7 @@ import ContentPage from '../views/ContentPage.vue'
 import ReleasesPage from '../views/ReleasesPage.vue'
 import TitlePage from '../views/TitlePage.vue'
 import ReleasePage from '../views/ReleasePage.vue'
+import ChecklistPage from '../views/ChecklistPage.vue'
 
 export const router = createRouter({
   history: createWebHashHistory(),
@@ -17,5 +18,6 @@ export const router = createRouter({
     { path: '/raw/releases', name: 'raw-releases', component: ReleasesPage },
     { path: '/title/:path', name: 'title', component: TitlePage },
     { path: '/release/:path', name: 'release', component: ReleasePage },
+    { path: '/checklist', name: 'checklist', component: ChecklistPage },
   ],
 })
