@@ -37,3 +37,7 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+# Generated: synced from repo-level /data at dev/build time (see scripts/copy-data.mjs)
+public/data/
+
