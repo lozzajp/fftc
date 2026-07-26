@@ -7,9 +7,12 @@ export function useMarkdownTree(path: string) {
   const loading = ref(true)
   const error = ref<string | null>(null)
 
-  fetch(path)
+  const resolvedPath = `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
+
+  fetch(resolvedPath)
     .then((res) => {
-      if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.status} ${res.statusText}`)
+      if (!res.ok)
+        throw new Error(`Failed to fetch ${resolvedPath}: ${res.status} ${res.statusText}`)
       return res.text()
     })
     .then((text) => {
