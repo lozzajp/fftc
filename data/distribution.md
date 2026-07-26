@@ -21,12 +21,22 @@
       - Final Fantasy II `(FFR.VG.FFII-20-ANN)`
     - PS4 `(PS4)`
       - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Nintendo Switch `(NS)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Steam `(STM)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Windows Store `(WIN)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Xbox Series X|S `(XS)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
     - Mobile `(MOB)`
       - Final Fantasy I (Java) `(FFR.VG.FFI)`
     - iOS `(IOS)`
       - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
     - Android `(AND)`
       - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Nintendo 3DS `(3DS)`
+      - Final Fantasy `(FFR.VG.FFI)`
 
   - Books `(BK)`
     - Final Fantasy I * II * III: Memory of Heroes `(FFR.BK.BK1)`

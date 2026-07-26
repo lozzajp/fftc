@@ -6,3 +6,6 @@
     - Auto-Map Feature `[T3]`
     - Bestiary / Monster Compendium `[T4]`
     - Rearranged Soundtrack `[T5]`
+    - 3D Graphics `[T6]`
+    - Censored Graphics (NOA removal of Judaeo-Christian symbols) `[T7]`
+    - FMV Videos `[T8]`

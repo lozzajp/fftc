@@ -1,37 +1,3 @@
-- Final Fantasy Content `[FFC]`
-  - Final Fantasy I `[FFI]`
-    - Mainline Game `[MG]`
-      - Final Fantasy I `[MG1]`
-    - Extra Content `[EC]`
-      - Soul of Chaos `[EC1]`
-      - Labyrinth of Time `[EC2]`
-      - Origins' FMVs `[EC3]`
-    - Related Media `[RM]`
-      - Final Fantasy I (Final Fantasy I * II * III: Memory of Heroes) `[RM1]`
-      - Final Fantasy Manga (1989) `[RM2]`
-
----
-
-- Final Fantasy Releases `(FFR)`
-  - Video Games `(VG)`
-    - Final Fantasy I `(FFI)`
-      - NES `(NES)`
-        - Final Fantasy I `[FFC.FFI.MG.MG1]`
-      - WonderSwan Color `(WSC)`
-        - Final Fantasy I `[FFC.FFI.MG.MG1]`
-  - Books `(BK)`
-    - Final Fantasy I * II * III: Memory of Heroes `(BK1)`
-      - Final Fantasy I `[FFC.FFI.RM.RM1]`
-
-
-
----
-
-END
-
----
-
----
 
 FFI (FMVs in Origins) (Soul of Chaos dungeons (GBA/PSP) & Labyrinth of Time (PSP))
 FFII (FMVs in Origins) (Soul of Rebirth epilogue)
