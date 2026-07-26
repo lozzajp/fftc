@@ -1,27 +1,49 @@
-<script setup lang="ts">
-import { useMarkdownTree } from './composables/useMarkdownTree'
-import TreeView from './components/TreeView.vue'
-
-const { tree, loading, error } = useMarkdownTree('/data/content.md')
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <main>
-    <h1>Final Fantasy: Taxonomic Compendium</h1>
-    <p v-if="loading">Loading content tree…</p>
-    <p v-else-if="error" class="error">{{ error }}</p>
-    <TreeView v-else :nodes="tree" />
-  </main>
+  <div class="app-shell">
+    <header>
+      <h1 class="title">FFTC</h1>
+      <nav>
+        <RouterLink to="/">Content</RouterLink>
+        <RouterLink to="/releases">Releases</RouterLink>
+      </nav>
+    </header>
+    <main>
+      <RouterView />
+    </main>
+  </div>
 </template>
 
 <style scoped>
-main {
+.app-shell {
   max-width: 720px;
   margin: 2rem auto;
   padding: 0 1rem;
   font-family: system-ui, sans-serif;
 }
-.error {
-  color: #c00;
+header {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+}
+.title {
+  margin: 0;
+  font-size: 1.25rem;
+}
+nav {
+  display: flex;
+  gap: 1rem;
+}
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+nav a.router-link-active {
+  font-weight: 600;
+  color: #2a5a2a;
 }
 </style>
