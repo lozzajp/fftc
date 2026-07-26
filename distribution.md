@@ -1,0 +1,33 @@
+- Final Fantasy Distribution `(FFD)`
+
+  - Video Games `(VG)`
+    - Famicom `(FMC)`
+      - Final Fantasy `(FFR.VG.FFI)`
+      - Final Fantasy I∙II `(FFR.VG.FFI-II)`
+    - MSX2 `(MSX2)`
+      - Final Fantasy `(FFR.VG.FFI)`
+    - NES `(NES)`
+      - Final Fantasy `(FFR.VG.FFI)`
+    - WonderSwan Color `(WSC)`
+      - Final Fantasy `(FFR.VG.FFI)`
+    - PS1 `(PS1)`
+      - Final Fantasy Origins `(FFR.VG.FFO)`
+      - Final Fantasy VII `(FFR.VG.FFVII)`
+      - Final Fantasy VII International `(FFR.VG.FFVII-INT)`
+    - GBA `(GBA)`
+      - Final Fantasy I & II: Dawn of Souls `(FFR.VG.FFI-II-DOS)`
+    - PSP `(PSP)`
+      - Final Fantasy `(FFR.VG.FFI-20-ANN)`
+      - Final Fantasy II `(FFR.VG.FFII-20-ANN)`
+    - PS4 `(PS4)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Mobile `(MOB)`
+      - Final Fantasy I (Java) `(FFR.VG.FFI)`
+    - iOS `(IOS)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+    - Android `(AND)`
+      - Final Fantasy Pixel Remaster `(FFR.VG.FFPR)`
+
+  - Books `(BK)`
+    - Final Fantasy I * II * III: Memory of Heroes `(FFR.BK.BK1)`
+

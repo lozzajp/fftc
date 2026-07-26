@@ -1,0 +1,33 @@
+- Final Fantasy Tag Values `(FFTAGV)`
+
+  - Final Fantasy I `(FFI)`
+    - `FFD.VG.FMC.FFR.VG.FFI`
+      - Japanese `[FFTAG.LANG.JP]`
+    - `FFD.VG.FMC.FFR.VG.FFI-II`
+      - Japanese `[FFTAG.LANG.JP]`
+    - `FFD.VG.MSX2.FFR.VG.FFI`
+      - Japanese `[FFTAG.LANG.JP]`
+    - `FFD.VG.NES.FFR.VG.FFI`
+      - English `[FFTAG.LANG.EN]`
+    - `FFD.VG.WSC.FFR.VG.FFI`
+      - Japanese `[FFTAG.LANG.JP]`
+    - `FFD.VG.PS1.FFR.VG.FFO`
+      - TODO 
+    - `FFD.VG.GBA.FFR.VG.FFI-II-DOS`
+      - TODO 
+    - `FFD.VG.PSP.FFR.VG.FFI-20-ANN`
+      - TODO 
+    - `FFD.VG.PS4.FFR.VG.FFPR`
+      - English `[FFTAG.LANG.EN]`
+      - Japanese `[FFTAG.LANG.JP]`
+      - TODO eur
+    - `FFD.VG.MOB.FFR.VG.FFI`
+      - TODO 
+    - `FFD.VG.IOS.FFR.VG.FFPR`
+      - English `[FFTAG.LANG.EN]`
+      - Japanese `[FFTAG.LANG.JP]`
+      - TODO 
+    - `FFD.VG.AND.FFR.VG.FFPR`
+      - English `[FFTAG.LANG.EN]`
+      - Japanese `[FFTAG.LANG.JP]`
+      - TODO 

@@ -1,0 +1,37 @@
+- Final Fantasy Trait Values `(FFTV)`
+
+  - Final Fantasy I `(FFI)`
+    - `FFD.VG.FMC.FFR.VG.FFI`
+      - Peninsula of Power Glitch `[FFT.FFI.T1]`
+      - Classic Spell-Charge Magic System `[FFT.FFI.T2]`
+    - `FFD.VG.FMC.FFR.VG.FFI-II`
+      - Peninsula of Power Glitch `[FFT.FFI.T1]`
+      - Classic Spell-Charge Magic System `[FFT.FFI.T2]`
+    - `FFD.VG.MSX2.FFR.VG.FFI`
+      - Peninsula of Power Glitch `[FFT.FFI.T1]`
+      - Classic Spell-Charge Magic System `[FFT.FFI.T2]`
+    - `FFD.VG.NES.FFR.VG.FFI`
+      - Peninsula of Power Glitch `[FFT.FFI.T1]`
+      - Classic Spell-Charge Magic System `[FFT.FFI.T2]`
+    - `FFD.VG.WSC.FFR.VG.FFI`
+      - TODO 
+    - `FFD.VG.PS1.FFR.VG.FFO`
+      - TODO 
+    - `FFD.VG.GBA.FFR.VG.FFI-II-DOS`
+      - TODO 
+    - `FFD.VG.PSP.FFR.VG.FFI-20-ANN`
+      - TODO 
+    - `FFD.VG.PS4.FFR.VG.FFPR`
+      - Auto-Map Feature `[FFT.FFI.T3]`
+      - Bestiary / Monster Compendium `[FFT.FFI.T4]`
+      - Rearranged Soundtrack `[FFT.FFI.T5]`
+    - `FFD.VG.MOB.FFR.VG.FFI`
+      - TODO 
+    - `FFD.VG.IOS.FFR.VG.FFPR`
+      - Auto-Map Feature `[FFT.FFI.T3]`
+      - Bestiary / Monster Compendium `[FFT.FFI.T4]`
+      - Rearranged Soundtrack `[FFT.FFI.T5]`
+    - `FFD.VG.AND.FFR.VG.FFPR`
+      - Auto-Map Feature `[FFT.FFI.T3]`
+      - Bestiary / Monster Compendium `[FFT.FFI.T4]`
+      - Rearranged Soundtrack `[FFT.FFI.T5]`

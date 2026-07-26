@@ -1,64 +1,42 @@
 - Final Fantasy Releases `(FFR)`
 
   - Video Games `(VG)`
-
-      - Famicom `(FMC)`
-        - Final Fantasy `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-        - Final Fantasy I∙II `(CMP)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-          - Final Fantasy II `[FFC.FFII.MG.MG1]`
-      - MSX2 `(MSX2)`
-        - Final Fantasy `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-      - NES `(NES)`
-        - Final Fantasy `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-      - WonderSwan Color `(WSC)`
-        - Final Fantasy `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-      - PS1 `(PS1)`
-        - Final Fantasy Origins `(CMP)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-          - Final Fantasy II `[FFC.FFII.MG.MG1]`
-          - FFI Origins' FMVs `[FFC.FFI.EC.EC3]`
-          - FFII Origins' FMVs `[FFC.FFII.EC.EC3]`
-        - Final Fantasy VII `(STD)`
-          - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
-        - Final Fantasy VII International `(INTL)`
-          - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
-          - Final Fantasy VII: Perfect Guide ("4th Disc") `[FFC.FFVII.FFVIIOG.EC.EC1]`
-      - GBA `(GBA)`
-        - Final Fantasy I & II: Dawn of Souls `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-          - Soul of Chaos `[FFC.FFI.EC.EC1]`
-          - Final Fantasy II `[FFC.FFII.MG.MG1]`
-          - Soul of Rebirth `[FFC.FFII.EC.EC1]`
-      - PSP `(PSP)`
-        - Final Fantasy `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-          - Soul of Chaos `[FFC.FFI.EC.EC1]`
-          - Labyrinth of Time `[FFC.FFI.EC.EC2]`
-          - FFI Origins' FMVs `[FFC.FFI.EC.EC3]`
-        - Final Fantasy II `(STD)`
-          - Final Fantasy II `[FFC.FFII.MG.MG1]`
-          - Soul of Rebirth `[FFC.FFII.EC.EC1]`
-          - Arcane Labyrinth `[FFC.FFII.EC.EC2]`
-          - FFII Origins' FMVs `[FFC.FFII.EC.EC3]`
-      - PS4 `(PS4)`
-        - Final Fantasy Pixel Remaster `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-          - Final Fantasy II `[FFC.FFII.MG.MG1]`
-          - TODO 3-6
-      - Mobile `(MOB)`
-        - Final Fantasy I (Java) `(STD)`
-          - Final Fantasy I `[FFC.FFI.MG.MG1]`
-      - iOS `(IOS)`
-        - TODO pixel remaster FFI/II
-      - Android `(AND)`
-        - TODO pixel remaster FFI/II
+    - Final Fantasy `(FFI)`
+      - Final Fantasy I `[FFC.FFI.MG.MG1]`
+    - Final Fantasy I∙II `(FFI-II)`
+      - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - Final Fantasy II `[FFC.FFII.MG.MG1]`
+    - Final Fantasy Origins `(FFO)`
+      - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - Final Fantasy II `[FFC.FFII.MG.MG1]`
+      - FFI Origins' FMVs `[FFC.FFI.EC.EC3]`
+      - FFII Origins' FMVs `[FFC.FFII.EC.EC3]`
+    - Final Fantasy VII `(FFVII)`
+      - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
+    - Final Fantasy VII International `(FFVII-INT)`
+      - Final Fantasy VII `[FFC.FFVII.FFVIIOG.MG.MG1]`
+      - Final Fantasy VII: Perfect Guide ("4th Disc") `[FFC.FFVII.FFVIIOG.EC.EC1]`
+    - Final Fantasy I & II: Dawn of Souls `(FFI-II-DOS)`
+      - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - Soul of Chaos `[FFC.FFI.EC.EC1]`
+      - Final Fantasy II `[FFC.FFII.MG.MG1]`
+      - Soul of Rebirth `[FFC.FFII.EC.EC1]`
+    - Final Fantasy (20th Anniversary) `(FFI-20-ANN)`
+      - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - Soul of Chaos `[FFC.FFI.EC.EC1]`
+      - Labyrinth of Time `[FFC.FFI.EC.EC2]`
+      - FFI Origins' FMVs `[FFC.FFI.EC.EC3]`
+    - Final Fantasy II (20th Anniversary) `(FFII-20-ANN)`
+      - Final Fantasy II `[FFC.FFII.MG.MG1]`
+      - Soul of Rebirth `[FFC.FFII.EC.EC1]`
+      - Arcane Labyrinth `[FFC.FFII.EC.EC2]`
+      - FFII Origins' FMVs `[FFC.FFII.EC.EC3]`
+    - Final Fantasy Pixel Remaster `(FFPR)`
+      - Final Fantasy I `[FFC.FFI.MG.MG1]`
+      - Final Fantasy II `[FFC.FFII.MG.MG1]`
+      - TODO 3-6
 
   - Books `(BK)`
     - Final Fantasy I * II * III: Memory of Heroes `(BK1)`
-        - Final Fantasy I (Final Fantasy I * II * III: Memory of Heroes) `[FFC.FFI.EM.EM1]`
-        - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[FFC.FFII.EM.EM1]`
+      - Final Fantasy I (Final Fantasy I * II * III: Memory of Heroes) `[FFC.FFI.EM.EM1]`
+      - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[FFC.FFII.EM.EM1]`
