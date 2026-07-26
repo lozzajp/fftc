@@ -5,7 +5,8 @@
     <header>
       <h1 class="title">FFTC</h1>
       <nav>
-        <RouterLink to="/">Content</RouterLink>
+        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/titles">Titles</RouterLink>
         <RouterLink to="/releases">Releases</RouterLink>
       </nav>
     </header>
