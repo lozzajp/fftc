@@ -1,0 +1,43 @@
+- Final Fantasy Fact Values `(FFFV)`
+
+  - Final Fantasy I `(FFI)`
+
+    - Release Dates
+      - `FFD.VG.FMC.FFR.VG.FFI`
+        - Release Date: 1987-12-18 `[FFF.RELEASE_DATE]`
+      - `FFD.VG.FMC.FFR.VG.FFI-II`
+        - TODO verify
+      - `FFD.VG.MSX2.FFR.VG.FFI`
+        - TODO verify
+      - `FFD.VG.NES.FFR.VG.FFI`
+        - Release Date: 1990-07 `[FFF.RELEASE_DATE]`
+      - `FFD.VG.WSC.FFR.VG.FFI`
+        - TODO verify
+      - `FFD.VG.PS1.FFR.VG.FFO`
+        - TODO verify
+      - `FFD.VG.GBA.FFR.VG.FFI-II-DOS`
+        - TODO verify
+      - `FFD.VG.PSP.FFR.VG.FFI-20-ANN`
+        - TODO verify
+      - `FFD.VG.PS4.FFR.VG.FFPR`
+        - Release Date: 2022-04-19 `[FFF.RELEASE_DATE]`
+      - `FFD.VG.MOB.FFR.VG.FFI`
+        - TODO verify
+      - `FFD.VG.IOS.FFR.VG.FFPR`
+        - Release Date: 2021-07-28 `[FFF.RELEASE_DATE]`
+      - `FFD.VG.AND.FFR.VG.FFPR`
+        - Release Date: 2021-07-28 `[FFF.RELEASE_DATE]`
+
+    - Timeline Positions
+      - `[FFC.FFI.MG.MG1]`
+        - Timeline Position: 1 `[FFF.TIMELINE_POS]`
+      - `[FFC.FFI.EC.EC1]`
+        - Timeline Position: 2 `[FFF.TIMELINE_POS]`
+      - `[FFC.FFI.EC.EC2]`
+        - Timeline Position: 3 `[FFF.TIMELINE_POS]`
+      - `[FFC.FFI.EC.EC3]`
+        - Timeline Position: 1 `[FFF.TIMELINE_POS]`
+      - `[FFC.FFI.EM.EM1]`
+        - Timeline Position: 1 `[FFF.TIMELINE_POS]`
+      - `[FFC.FFI.EM.EM2]`
+        - Timeline Position: 1 `[FFF.TIMELINE_POS]`

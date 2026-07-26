@@ -1,2 +1,2 @@
-# Final Fantasy: Taxonomical Compendium
-Taxonomical reference of Final Fantasy content, games, and media.
+# Final Fantasy: Taxonomic Compendium (FFTC)
+A taxonomic reference of Final Fantasy content, games, releases, and media.
