@@ -48,7 +48,7 @@
         - Dirge of Cerberus Lost Episode `[SG6]`
       - Extra Media `[EM]`
         - Advent Children Complete `[EM1]`
-        - Last Order (non-canon, but official) `[EM2]`
+        - Last Order `[EM2]`
         - On the Way to a Smile `[EM3]`
         - Episode: Denzel (On the Way to a Smile) `[EM4]`
         - The Kids Are Alright `[EM5]`
@@ -75,7 +75,7 @@
         - Final Fantasy VII Rebirth: Dear Destiny `[EM3]`
         - 2000 Gil to Become a Hero `[EM4]`
       - Related Media `[RM]`
-        - Inside Final Fantasy VII Remake (making of video) `[RM1]`
+        - Inside Final Fantasy VII Remake `[RM1]`
       - Sub Content `[SC]`
         - Fall of a Hero - Prologue x FF7 Rebirth (Ever Crisis) `[SC1]`
         - LOVELESS - Behind the Scenes x FF7 Rebirth (Ever Crisis) `[SC2]`
