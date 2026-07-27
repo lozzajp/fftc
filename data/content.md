@@ -22,10 +22,19 @@
       - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
 
   - Final Fantasy III `[FFIII]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy III `[MG1]`
+    - Extra Content `[EC]`
+      - FFIII FMVs `[EC1]`
+      - FFIII 3D Intro/Characters `[EC2]`
 
   - Final Fantasy IV `[FFIV]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy IV `[MG1]`
+    - Extra Content `[EC]`
+      - Final Fantasy IV: Interlude `[EC1]`
+    - Spin-off Games `[SG]`
+      - Final Fantasy IV: The After Years `[SG`]`
 
   - Final Fantasy V `[FFV]`
     - TODO
@@ -103,9 +112,20 @@
 
   - Final Fantasy XIV `[FFXIV]`
     - Final Fantasy XIV Original `[FFXIVOG]`
-      - TODO
+      - Mainline Game `[MG]`
+        - Final Fantasy XIV `[MG1]`
     - Final Fantasy XIV: A Realm Reborn `[FFXIVRR]`
-      - TODO
+      - Mainline Game `[MG]`
+        - Final Fantasy XIV: A Realm Reborn `[MG1]`
+      - Extra Content `[EC]`
+        - Heavensward `[EC1]`
+        - Stormblood `[EC2]`
+        - Shadowbringers `[EC3]`
+        - Endwalker `[EC4]`
+        - Dawntrail `[EC5]`
+        - Evercold `[EC6]`
+      - Related Media `[RM]`
+        - Final Fantasy XIV: Dad of Light `[RM1]`
 
   - Final Fantasy XV `[FFXV]`
     - TODO
