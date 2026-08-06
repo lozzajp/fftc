@@ -20,6 +20,9 @@
       - FFII Origins' FMVs `[EC3]`
     - Extra Media `[EM]`
       - Final Fantasy II (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
+      - Final Fantasy II Nightmare's Labyrinth `[EM2]`
+      - Final Fantasy II Dragon Treasures `[EM3]`
+      - Final Fantasy II Journey to Victory `[EM4]`
 
   - Final Fantasy III `[FFIII]`
     - Mainline Game `[MG]`
@@ -27,6 +30,11 @@
     - Extra Content `[EC]`
       - FFIII FMVs `[EC1]`
       - FFIII 3D Intro/Characters `[EC2]`
+      - FFIII 3D's FMVs `[EC3]`
+      - Mognet & Bonus Dungeon `[EC4]`
+    - Extra Media `[EM]`
+      - Final Fantasy III (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
+      - Legend of the Eternal Wind: from Final Fantasy III `[EM2]`
 
   - Final Fantasy IV `[FFIV]`
     - Mainline Game `[MG]`
@@ -34,7 +42,7 @@
     - Extra Content `[EC]`
       - Final Fantasy IV: Interlude `[EC1]`
     - Spin-off Games `[SG]`
-      - Final Fantasy IV: The After Years `[SG`]`
+      - Final Fantasy IV: The After Years `[SG]`
 
   - Final Fantasy V `[FFV]`
     - TODO
@@ -62,7 +70,9 @@
         - Episode: Denzel (On the Way to a Smile) `[EM4]`
         - The Kids Are Alright `[EM5]`
         - The Maiden Who Travels The Planet `[EM6]`
-        - Reminiscence of Final Fantasy VII (Advent Children Complete) `[EM7]`
+        - Reminiscence of Final Fantasy VII Original `[EM7]`
+        - Reminiscence of Final Fantasy VII Compilation `[EM8]`
+        - Legacy of Final Fantasy VII (Advent Children Featurette) `[EM10]`
       - Sub Content `[SC]`
         - FF7 (Ever Crisis) `[SC1]`
         - Crisis Core (Ever Crisis) `[SC2]`
