@@ -41,6 +41,11 @@
       - Final Fantasy IV `[MG1]`
     - Extra Content `[EC]`
       - Final Fantasy IV: Interlude `[EC1]`
+      - FFIV PS1's FMVs `[EC2]`
+      - FFIV 3D's FMVs `[EC3]`
+      - Cave of Trials `[EC4]`
+      - Lunar Ruins `[EC5]`
+      - EX Dungeon `[EC6]`
     - Spin-off Games `[SG]`
       - Final Fantasy IV: The After Years `[SG]`
 
