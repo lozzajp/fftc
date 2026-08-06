@@ -72,7 +72,7 @@
         - The Maiden Who Travels The Planet `[EM6]`
         - Reminiscence of Final Fantasy VII Original `[EM7]`
         - Reminiscence of Final Fantasy VII Compilation `[EM8]`
-        - Legacy of Final Fantasy VII (Advent Children Featurette) `[EM10]`
+        - Legacy of Final Fantasy VII (Advent Children Featurette) `[EM9]`
       - Sub Content `[SC]`
         - FF7 (Ever Crisis) `[SC1]`
         - Crisis Core (Ever Crisis) `[SC2]`
