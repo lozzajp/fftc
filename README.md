@@ -17,6 +17,7 @@ Also feel free to raise an issue to request features/views on the website side o
 
 - Ultimanias
 - Soundtracks
+- Extra bits like beastiarys and soundtrack arrangements (differences for traits.md)
 
 # History
 

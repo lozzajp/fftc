@@ -50,10 +50,24 @@
       - Final Fantasy IV: The After Years `[SG]`
 
   - Final Fantasy V `[FFV]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy V `[MG1]`
+    - Extra Content `[EC]`
+      - FFV PS1's FMVs `[EC1]`
+    - Extra Media `[EM]`
+      - FF Legend of the Crystals (OVA) `[EM1]`
+      - Final Fantasy: Chapter of the Wind and the Flame Chapter `[EM2]`
+      - Final Fantasy: Chapter of the Dragon and Star Chapter `[EM3]`
 
   - Final Fantasy VI `[FFVI]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy VI `[MG1]`
+    - Extra Content `[EC]`
+      - FFVI PS1's FMVs `[EC1]`
+      - Dragon's Den `[EC2]`
+      - Soul Shrine `[EC3]`
+    - Extra Media `[EM]`
+      - The Marriage of Figaro: Tales from Desert `[EM1]`
 
   - Final Fantasy VII `[FFVII]`
     - Final Fantasy VII Original `[FFVIIOG]`
