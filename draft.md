@@ -1,9 +1,4 @@
 
-FFI (FMVs in Origins) (Soul of Chaos dungeons (GBA/PSP) & Labyrinth of Time (PSP))
-FFII (FMVs in Origins) (Soul of Rebirth epilogue)
-FFIII (FMVs)
-
-Final Fantasy I * II * III: Memory of Heroes
 
 FFIV (FMVs in Chronicle)
 FFIV Interlude
