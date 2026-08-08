@@ -13,6 +13,11 @@ Please help fill any gaps of missing content or inaccuracies. PR would be great 
 
 Also feel free to raise an issue to request features/views on the website side of things.
 
+# Things to add?
+
+- Ultimanias
+- Soundtracks
+
 # History
 
 This started off as a simple checklist for me to get through FF games and any spin offs. It then grew more as I added books and other media I was finding, then before long I wanted to "connect the dots" with them all, and produce some form of definitive list per game/series on what and how to consume the content, and differences between versions.
