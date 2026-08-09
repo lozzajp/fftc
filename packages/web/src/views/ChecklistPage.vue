@@ -47,7 +47,7 @@ function download() {
     <p v-else-if="error" class="error">{{ error }}</p>
 
     <template v-else>
-      <p class="hint">Pick a title, or a whole universe to include every split (e.g. Original + Remake).</p>
+      <p class="hint">Pick a title or collection.</p>
       <select v-model="selectedPath" class="picker">
         <option value="" disabled>Select a title or universe…</option>
         <option v-for="node in selectableNodes" :key="node.path" :value="node.path">

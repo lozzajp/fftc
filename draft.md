@@ -1,10 +1,4 @@
 
-
-
-FFVIII
-FFIX
-    A Resonant Waltz (Ever Crisis crossover)
-
 FFX
 FFX-2 (+ Last Mission)
 FFX-2.5 Novel

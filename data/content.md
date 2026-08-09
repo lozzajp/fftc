@@ -125,13 +125,22 @@
   - Final Fantasy VIII `[FFVIII]`
     - Mainline Game `[MG]`
       - Final Fantasy VIII `[MG1]`
+    - Extra Content `[EC]`
+      - Chocobo World (PocketStation) `[EC1]`
     - Related Media `[RM]`
       - A Day of Instruction at Garden (Final Fantasy VIII Ultimania) `[RM1]`
       - Inside Final Fantasy VIII Remastered `[RM2]`
       - Final Fantasy VIII Desktop Accessories `[RM3]`
+    - Sub Content `[SC]`
+      - A Resonant Waltz (Ever Crisis) `[SC1]`
 
   - Final Fantasy IX `[FFIX]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy IX `[MG1]`
+    - Related Media `[RM]`
+      - Tetra Master (PlayOnline) `[RM1]`
+      - Inside Final Fantasy IX `[RM2]`
+      - Final Fantasy IX: The Black Mages' Legacy `[RM3]`
 
   - Final Fantasy X `[FFX]`
     - TODO
