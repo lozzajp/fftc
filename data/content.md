@@ -82,6 +82,7 @@
         - G-Bike `[SG4]`
         - Dirge of Cerberus `[SG5]`
         - Dirge of Cerberus Lost Episode `[SG6]`
+        - Dirge of Cerberus PlayOnline `[SG7]`
       - Extra Media `[EM]`
         - Advent Children Complete `[EM1]`
         - Last Order `[EM2]`
