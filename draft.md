@@ -40,25 +40,6 @@ Fabula Nova Crystallis:
     Inside The Square: The Making of Lightning Returns: Final Fantasy XIII
     (cancelled) Lightning Returns: Final Fantasy XIII Chronicle of Chaotic Era
 
-    FFXV
-    Platinum Demo
-    Brotherhood
-    Kingsglaive
-    Parting Ways
-    Justice Monsters Five
-    Episode Ardyn Prologue
-    Episode Ardyn
-    Episode Gladiolus
-    Episode Prompto
-    Episode Ignis
-    Comrades
-    A New Empire
-    Monsters of the Deep
-    Pocket Edition (and HD)
-    Final Fantasy XV: War for Eos
-    King's Knight -Wrath of the Dark Dragon- (deprecated)
-    Final Fantasy XV: The Dawn of the Future
-
     FF Type-0 (and HD)
         Manga Series
         Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade
@@ -67,6 +48,25 @@ Fabula Nova Crystallis:
 
     FF Agito (deprecated)
     FF Awakening (deprecated)
+
+FFXV
+Platinum Demo
+Brotherhood
+Kingsglaive
+Parting Ways
+Justice Monsters Five
+Episode Ardyn Prologue
+Episode Ardyn
+Episode Gladiolus
+Episode Prompto
+Episode Ignis
+Comrades
+A New Empire
+Monsters of the Deep
+Pocket Edition (and HD)
+Final Fantasy XV: War for Eos
+King's Knight -Wrath of the Dark Dragon- (deprecated)
+Final Fantasy XV: The Dawn of the Future
 
 FFXIV A Realm Reborn
 Heavensward
