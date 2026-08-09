@@ -62,10 +62,7 @@ export function checklistToMarkdown(heading: string, titles: ChecklistTitle[]): 
 
       lines.push(multiTitle ? `### ${category.label}` : `## ${category.label}`, '')
       for (const item of category.items) {
-        const releaseNote = item.releases.length
-          ? ` _(${item.releases.map((r) => r.label).join(', ')})_`
-          : ' _(no known release)_'
-        lines.push(`- [ ] ${item.label}${releaseNote}`)
+        lines.push(`- [ ] ${item.label}`)
       }
       lines.push('')
     }
