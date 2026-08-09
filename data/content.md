@@ -123,7 +123,12 @@
         - First Soldier Intro FMV `[SC5]`
 
   - Final Fantasy VIII `[FFVIII]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy VIII `[MG1]`
+    - Related Media `[RM]`
+      - A Day of Instruction at Garden (Final Fantasy VIII Ultimania) `[RM1]`
+      - Inside Final Fantasy VIII Remastered `[RM2]`
+      - Final Fantasy VIII Desktop Accessories `[RM3]`
 
   - Final Fantasy IX `[FFIX]`
     - TODO

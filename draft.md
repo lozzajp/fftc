@@ -1,44 +1,5 @@
 
-FF Legend of the Crystals (FFV Manga)
 
-FFVI (FMVs in Anthology)
-
-FFVII
-Final Fantasy VII: Perfect Guide ("4th Disc")
-Before Crisis
-Snowboarding
-Advent Children (+Complete)
-    Reminiscence of Final Fantasy VII (part of Complete edition)
-Last Order (non-canon, but official)
-Dirge of Cerberus (+Online mode story chapter, deprecated)
-Dirge of Cerberus Lost Episode (non-canon, but official)
-Crisis Core (or Reunion)
-G-Bike
-Remake
-Remake Intergrade (Intermission)
-Inside Final Fantasy VII Remake (making of video)
-Rebirth
-Revelation
-Ever Crisis
-    FF7 (EC)
-    Crisis Core (EC)
-    First Soldier
-        The First Soldier Story Episode: 3 Ex Soldiers (limited event, YT videos)
-    Advent Children (EC)
-    Dirge of Cerberus (EC)
-    Before Crisis (EC)
-    Fall of a Hero - Prologue x FF7 Rebirth (limited event, YT videos)
-    LOVELESS - Behind the Scenes x FF7 Rebirth (limited event, YT videos)
-On the Way to a Smile
-Episode: Denzel
-The Kids Are Alright
-Traces of Two Pasts
-    Final Fantasy VII Remake: Picturing the Past
-2000 Gil to Become a Hero
-Final Fantasy VII Rebirth: Dear Destiny
-First Soldier (deprecated)
-    Intro Movie exists
-The Maiden Who Travels The Planet (non-canon, but official)
 
 FFVIII
 FFIX
