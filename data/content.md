@@ -143,10 +143,39 @@
       - Final Fantasy IX: The Black Mages' Legacy `[RM3]`
 
   - Final Fantasy X `[FFX]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy X `[MG1]`
+      - Final Fantasy X-2 `[MG2]`
+    - Extra Content `[EC]`
+      - Final Fantasy X-2 Last Mission `[EC1]`
+    - Extra Media `[EM]`
+      - Final Fantasy X: Eternal Calm `[EM1]`
+      - Final Fantasy X-2.5 ~Eien no Daishō~ `[EM2]`
+      - Final Fantasy X-2.8 -Will- `[EM3]`
 
   - Final Fantasy XI `[FFXI]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy XI `[MG1]`
+    - Extra Content `[EC]`
+      - Rise of the Zilart `[EC1]`
+      - Chains of Promathia `[EC2]`
+      - Treasures of Aht Urghan `[EC3]`
+      - Wings of the Goddess `[EC4]`
+      - A Crystalline Prophecy `[EC5]`
+      - A Moogle Kupo D’Etat `[EC6]`
+      - A Shantotto Ascension `[EC7]`
+      - Vision of Abyssea `[EC8]`
+      - Scars of Abyssea `[EC9]`
+      - Heroes of Abyssea `[EC10]`
+      - Seekers of Adoulin `[EC11]`
+      - Rhapsodies of Vana’Diel `[EC12]`
+      - The Voracious Resurgence `[EC13]`
+    - Spin-off Games `[SG]`
+      - Final Fantasy Grandmasters `[SG1]`
+    - Related Media `[RM]`
+      - Final Fantasy XI ~The Out of Orders~ `[RM1]`
+
+  - The Ivalice Chronicles `[FF-IC]`
 
   - Final Fantasy XII `[FFXII]`
     - TODO

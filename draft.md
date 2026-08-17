@@ -1,19 +1,6 @@
 
-FFX
-FFX-2 (+ Last Mission)
-FFX-2.5 Novel
-FFX-2.8 Audio Drama
 
-FFXI
-Rise of the Zilart
-Chains of Promathia
-Treasures of Aht Urghan
-Wings of the Goddess
-A Crystalline Prophecy
-A Moogle Kupo D’Etat
-A Shantotto Ascension
-Seekers of Adoulin
-Rhapsodies of Vana’Diel
+
 
 Ivalice:
     FFXII
@@ -60,6 +47,7 @@ Episode Ardyn
 Episode Gladiolus
 Episode Prompto
 Episode Ignis
+Episode Duscae
 Comrades
 A New Empire
 Monsters of the Deep
