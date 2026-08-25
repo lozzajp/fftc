@@ -176,6 +176,21 @@
       - Final Fantasy XI ~The Out of Orders~ `[RM1]`
 
   - The Ivalice Chronicles `[FF-IC]`
+    - Mainline Game `[MG]`
+      - Final Fantasy XII `[MG1]`
+      - Final Fantasy Tactics `[MG2]`
+      - Final Fantasy Tactics A2: Grimoire of the Rift `[MG3]`
+      - Final Fantasy Tactics Advance `[MG4]`
+    - Extra Content `[EC]`
+      - Final Fantasy Tactics: War of the Lions `[EC1]`
+      - Final Fantasy Tactics A2: Prologue `[EC2]`
+      - Final Fantasy Tactics A2: Epilogue `[EC3]`
+      - War of the Lions' FMVs `[EC4]`
+      - Final Fantasy Tactics Advance Radio Edition `[EC5]`
+      - Final Fantasy XII: International Zodiac Job System `[EC6]`
+    - Spin-off Games `[SG]`
+      - Final Fantasy XII: Revenant Wings `[SG1]`
+      - Vagrant Story `[SG2]`
 
   - Final Fantasy XII `[FFXII]`
     - TODO

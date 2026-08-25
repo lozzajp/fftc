@@ -1,16 +1,5 @@
 
 
-
-
-Ivalice:
-    FFXII
-    FFXII RW
-    FFTA
-    FFTA2 (+ Prologue & Epilogue)
-    FFT (Ivalice Chronicles) (+ War of the Lions)
-    FFTA Radio Edition
-    Vagrant Story
-
 Fabula Nova Crystallis:
     FFXIII Episode 0 -Promise-
     FFXIII
@@ -141,7 +130,7 @@ Mobile:
 
 Deprecated:
     FF Unlimited With U
-    FF Unlimited on PC
+    FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
     Crystal Defenders
     Crystal Defenders: Vanguard Storm
     FF Tactics S
@@ -159,3 +148,5 @@ Deprecated:
     Mobius Final Fantasy
     Final Fantasy Digital Card Game
     FFXIV
+    Dive II Hunt: The Adventures of Sorbet
+    FFVI Interactive CG Demo
