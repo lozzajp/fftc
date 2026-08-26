@@ -199,6 +199,7 @@
         - Final Fantasy Tactics A2: Epilogue `[EC3]`
         - War of the Lions' FMVs `[EC4]`
         - Final Fantasy Tactics Advance Radio Edition `[EC5]`
+        - Final Fantasy Tactics Enhanced (The Ivalice Chronicles) `[EC6]`
       - Spin-off Games `[SG]`
         - Final Fantasy Tactics S `[SG1]`
     - Other Games `[OG]`

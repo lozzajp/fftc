@@ -1,13 +1,13 @@
 
 
-
+Final Fantasy Resonance
 
 World of Final Fantasy
 World of Final Fantasy Maxima (DLC on PS/Windows)
 
 Stranger of Paradise: Final Fantasy Origin
 
-FF The 4 Heroes of Lightning
+FF The 4 Heroes of Light
 FF Explorers
 
 Theatrhythm Final Fantasy
@@ -45,7 +45,6 @@ Tangential:
     FF Mystic Quest
 
 Anime:
-    FF Legend of the Crystals (FFV)
     FF Spirits Within
     FF Unlimited
 
@@ -75,10 +74,8 @@ Deprecated:
     FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
     Crystal Defenders
     Crystal Defenders: Vanguard Storm
-    King's Knight -Wrath of the Dark Dragon-
     World of Final Fantasy: Meli-Melo
     War of the Visions: Final Fantasy Brave Exvius
-    FF Grand Masters
     FF Artniks
     FF Artniks Dive
     Final Fantasy Brave Exvius Tap!
