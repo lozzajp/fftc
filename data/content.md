@@ -353,3 +353,9 @@
     - Spin-off Game `[SG]`
       - Final Fantasy Brave Exvius Tap! `[SG1]`
       - War of the Visions: Final Fantasy Brave Exvius `[SG2]`
+
+  - Final Fantasy Explorers `[FFE]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Explorers `[MG1]`
+    - Spin-off Game `[SG]`
+      - Final Fantasy Explorers-Force `[SG1]`

@@ -3,7 +3,6 @@
 Stranger of Paradise: Final Fantasy Origin
 
 FF The 4 Heroes of Light
-FF Explorers
 
 Chocobo:
     Chocobo Dungeon
@@ -43,7 +42,6 @@ Deprecated:
     FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
     FF Artniks
     FF Artniks Dive
-    Final Fantasy Explorers-Force
     Voice Fantasy
     Final Fantasy Airborne Brigade
     Final Fantasy: World Wide Words
