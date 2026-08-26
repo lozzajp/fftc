@@ -202,6 +202,8 @@
         - Final Fantasy Tactics Enhanced (The Ivalice Chronicles) `[EC6]`
       - Spin-off Game `[SG]`
         - Final Fantasy Tactics S `[SG1]`
+        - Crystal Defenders `[SG2]`
+        - Crystal Defenders: Vanguard Storm `[SG3]`
     - Other Games `[OG]`
       - Mainline Game `[MG]`
         - Vagrant Story `[MG1]`
@@ -303,3 +305,16 @@
       - Dissidia Duodecim Prologus Final Fantasy `[EC1]`
     - Related Media `[RM]`
       - Dissidia Final Fantasy: Secretum -Himitsu- `[RM1]`
+
+  - Final Fantasy Crystal Chronicles `[FFCC]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Crystal Chronicles `[MG1]`
+    - Spin-off Game `[SG]`
+      - Final Fantasy Crystal Chronicles: Ring of Fates `[SG1]`
+      - Final Fantasy Crystal Chronicles: My Life as a King `[SG2]`
+      - Final Fantasy Crystal Chronicles: Echoes of Time `[SG3]`
+      - Final Fantasy Crystal Chronicles: My Life as a Darklord `[SG4]`
+      - Final Fantasy Crystal Chronicles: The Crystal Bearers `[SG5]`
+    - Extra Media `[EM]`
+      - Final Fantasy Crystal Chronicles: Beyond the Endless Sky `[EM1]`
+      - Final Fantasy Crystal Chronicles: Ring of Fates 4-Panel Anthology Comic `[EM2]`

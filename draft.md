@@ -21,14 +21,6 @@ Chocobo:
     Chocobo de Battle - Chocobo no Fushigina Dungeon - Chocobo's Dungeon 2 - Chocobo World - Chocobo Racing - Chocobo Stallion - Dice de Chocobo - Hataraku Chocobo - Chocobo de Mobile - Final Fantasy Fables: Chocobo Tales - Final Fantasy Fables: Chocobo's Dungeon (Final Fantasy Fables: Chocobo's Dungeon DS+ - Chocobo's Mystery Dungeon Every Buddy!) - Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha - Chocobo Racing 3D - Chocobo Panic - Chocobo's Crystal Tower - Chocobo GP' - Chocobo GP
 
 
-Crystal Chronicles:
-    FF Crystal Chronicles (and remastered)
-    Ring of Fates
-    My Life as a King
-    Echoes of Time
-    My Life as a Darklord
-    The Crystal Bearers
-    Caravan Stories
 
 Tangential:
     FF Legend
@@ -51,6 +43,7 @@ Square:
     Drakengard
         Nier
     Octopath
+    valkyrie profile?
 
 Mobile:
     FF Dimensions
@@ -65,8 +58,6 @@ Mobile:
 Deprecated:
     FF Unlimited With U
     FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
-    Crystal Defenders
-    Crystal Defenders: Vanguard Storm
     World of Final Fantasy: Meli-Melo
     War of the Visions: Final Fantasy Brave Exvius
     FF Artniks
