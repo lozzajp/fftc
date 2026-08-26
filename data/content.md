@@ -372,3 +372,13 @@
       - Final Fantasy: Unlimited After `[EM3]`
       - Final Fantasy: Unlimited Spiral `[EM4]`
       - Final Fantasy: Unlimited After 2 `[EM5]`
+
+  - Final Fantasy Artniks `[FFA]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Artniks `[MG1]`
+      - Final Fantasy Artniks Dive `[MG2]`
+
+  - Final Fantasy Adventure/Mystic Quest `[FFAMQ]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Adventure `[MG1]`
+      - Final Fantasy Mystic Quest `[MG2]`
