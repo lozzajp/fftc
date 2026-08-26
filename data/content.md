@@ -68,6 +68,8 @@
       - Soul Shrine `[EC3]`
     - Extra Media `[EM]`
       - The Marriage of Figaro: Tales from Desert `[EM1]`
+    - Spin-off Games `[SG]`
+      - Final Fantasy VI Interactive CG Demo `[SG1]`
 
   - Final Fantasy VII `[FFVII]`
     - Final Fantasy VII Original `[FFVIIOG]`
@@ -193,6 +195,7 @@
     - Spin-off Games `[SG]`
       - Final Fantasy XII: Revenant Wings `[SG1]`
       - Vagrant Story `[SG2]`
+      - Final Fantasy Tactics S `[SG3]`
 
   - Fabula Nova Crystallis `[FNC]`
     - Mainline Game `[MG]`
@@ -242,4 +245,9 @@
     - TODO
 
   - Final Fantasy XVI `[FFXVI]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy XVI `[MG1]`
+    - Extra Content `[EC]`
+      - Final Fantasy XVI Demo `[EC1]`
+      - Echos of the Fallen `[EC2]`
+      - The Rising Tide `[EC3]`

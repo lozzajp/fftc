@@ -21,9 +21,6 @@ Final Fantasy XV: War for Eos
 King's Knight -Wrath of the Dark Dragon- (deprecated)
 Final Fantasy XV: The Dawn of the Future
 
-FFXVI
-Echoes of the Fallen
-The Rising Tide
 
 World of Final Fantasy
 World of Final Fantasy Maxima (DLC on PS/Windows)
@@ -100,7 +97,6 @@ Deprecated:
     FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
     Crystal Defenders
     Crystal Defenders: Vanguard Storm
-    FF Tactics S
     King's Knight -Wrath of the Dark Dragon-
     World of Final Fantasy: Meli-Melo
     War of the Visions: Final Fantasy Brave Exvius
@@ -115,4 +111,3 @@ Deprecated:
     Mobius Final Fantasy
     Final Fantasy Digital Card Game
     Dive II Hunt: The Adventures of Sorbet
-    FFVI Interactive CG Demo
