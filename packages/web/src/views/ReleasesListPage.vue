@@ -6,7 +6,6 @@ import { findReleaseNodes } from '../parser/navigation'
 const { tree: releaseRoots, loading, error } = useMarkdownTree('/data/releases.md')
 const releases = computed(() => findReleaseNodes(releaseRoots.value))
 
-// Drop the root node's own label ("Final Fantasy Releases") — same for every entry, adds noise.
 function displayBreadcrumb(breadcrumb: string[]): string {
   return breadcrumb.slice(1).join(' / ')
 }

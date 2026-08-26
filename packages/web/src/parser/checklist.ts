@@ -52,17 +52,17 @@ export function buildChecklistTitles(
 
 export function checklistToMarkdown(heading: string, titles: ChecklistTitle[]): string {
   const multiTitle = titles.length > 1
-  const lines: string[] = [`# ${heading} — Checklist`, '']
+  const lines: string[] = [`# ${heading} - Checklist - [ ]`, '']
 
   for (const title of titles) {
-    if (multiTitle) lines.push(`## ${title.label}`, '')
+    if (multiTitle) lines.push(`## ${title.label} - [ ]`, '')
 
     for (const category of title.categories) {
       if (!category.items.length) continue
 
-      lines.push(multiTitle ? `### ${category.label}` : `## ${category.label}`, '')
+      lines.push(multiTitle ? `### ${category.label} - [ ]` : `## ${category.label} - [ ]`, '')
       for (const item of category.items) {
-        lines.push(`- [ ] ${item.label}`)
+        lines.push(`- ${item.label} - [ ]`)
       }
       lines.push('')
     }
