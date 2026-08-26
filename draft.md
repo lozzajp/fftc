@@ -1,26 +1,6 @@
 
 
 
-FFXV
-Platinum Demo
-Brotherhood
-Kingsglaive
-Parting Ways
-Justice Monsters Five
-Episode Ardyn Prologue
-Episode Ardyn
-Episode Gladiolus
-Episode Prompto
-Episode Ignis
-Episode Duscae
-Comrades
-A New Empire
-Monsters of the Deep
-Pocket Edition (and HD)
-Final Fantasy XV: War for Eos
-King's Knight -Wrath of the Dark Dragon- (deprecated)
-Final Fantasy XV: The Dawn of the Future
-
 
 World of Final Fantasy
 World of Final Fantasy Maxima (DLC on PS/Windows)

@@ -242,7 +242,32 @@
         - Final Fantasy XIV: Dad of Light `[RM1]`
 
   - Final Fantasy XV `[FFXV]`
-    - TODO
+    - Mainline Game `[MG]`
+      - Final Fantasy XV `[MG1]`
+    - Extra Content `[EC]`
+      - Platinum Demo `[EC1]`
+      - Episode Duscae `[EC2]`
+      - Episode Ardyn `[EC3]`
+      - Episode Gladiolus `[EC4]`
+      - Episode Prompto `[EC5]`
+      - Episode Ignis `[EC6]`
+      - Comrades `[EC7]`
+    - Spin-off Games `[SG]`
+      - Justice Monsters Five `[SG1]`
+      - Final Fantasy XV: A New Empire `[SG2]`
+      - Monster of the Deep: Final Fantasy XV `[SG3]`
+      - Final Fantasy XV Pocket Edition `[SG4]`
+      - Final Fantasy XV: War for Eos `[SG5]`
+      - King's Knight -Wrath of the Dark Dragon- `[SG6]`
+      - A King's Tale: Final Fantasy XV `[SG7]`
+    - Extra Media `[EM]`
+      - Brotherhood `[EM1]`
+      - Kingsglaive `[EM2]`
+      - Kingsglaive: Parting Ways `[EM3]`
+      - Episode Ardyn - Prologue `[EM4]`
+      - Final Fantasy XV -The Dawn of the Future- `[EM5]`
+      - Final Fantasy XV Episode Carbuncle `[EM6]`
+      - Final Fantasy XV Official Comic Anthology `[EM7]`
 
   - Final Fantasy XVI `[FFXVI]`
     - Mainline Game `[MG]`
