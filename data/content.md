@@ -359,3 +359,16 @@
       - Final Fantasy Explorers `[MG1]`
     - Spin-off Game `[SG]`
       - Final Fantasy Explorers-Force `[SG1]`
+
+  - Final Fantasy: Unlimited `[FFU]`
+    - Main Media `[MM]`
+      - Final Fantasy: Unlimited `[MM1]`
+    - Spin-off Game `[SG]`
+      - Final Fantasy: Unlimited with U `[SG1]`
+      - Final Fantasy: Unlimited on PC Adventure - Labyrinth `[SG2]`
+    - Extra Media `[EM]`
+      - Final Fantasy: Unlimited Twin Bonds `[EM1]`
+      - Final Fantasy: Unlimited Before `[EM2]`
+      - Final Fantasy: Unlimited After `[EM3]`
+      - Final Fantasy: Unlimited Spiral `[EM4]`
+      - Final Fantasy: Unlimited After 2 `[EM5]`

@@ -17,7 +17,6 @@ Tangential:
 
 Anime:
     FF Spirits Within
-    FF Unlimited
 
 Square:
     Chrono Trigger (FMVs in Chronicle, Steam?) (Dimensional Adventure Numa Monjar/Jikuu Bouken Nuumamonjaa)
@@ -38,8 +37,6 @@ Mobile:
     FF Portal App
 
 Deprecated:
-    FF Unlimited With U
-    FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
     FF Artniks
     FF Artniks Dive
     Voice Fantasy
