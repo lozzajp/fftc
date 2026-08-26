@@ -2,7 +2,7 @@ import type { TreeNode } from '../models/tree'
 import { normalizeCode, isContentRef } from './resolveRef'
 import { findGroupNodes, type GroupNode } from './findGroupNodes'
 
-const CATEGORY_CODES = new Set(['MG', 'EC', 'SG', 'EM', 'RM', 'SC'])
+const CATEGORY_CODES = new Set(['MG', 'MM', 'EC', 'SG', 'EM', 'RM', 'SC'])
 
 export function findTitleNodes(contentRoots: TreeNode[]): GroupNode[] {
   return findGroupNodes(contentRoots, (node) =>

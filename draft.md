@@ -1,5 +1,4 @@
 
-
 FF Lost Stranger
 
 Stranger of Paradise: Final Fantasy Origin
@@ -20,12 +19,11 @@ Mobile:
     FF All The Bravest
     Pictlogica Final Fantasy
     FF Record Keeper
-    FF Portal App
 
 Deprecated:
     Voice Fantasy
     Final Fantasy Airborne Brigade
-    Final Fantasy: World Wide Words
+    Final Fantasy World Wide Words
     Mobius Final Fantasy
     Final Fantasy Digital Card Game
     Dive II Hunt: The Adventures of Sorbet

@@ -361,7 +361,7 @@
       - Final Fantasy Explorers-Force `[SG1]`
 
   - Final Fantasy: Unlimited `[FFU]`
-    - Main Media `[MM]`
+    - Mainline Media `[MM]`
       - Final Fantasy: Unlimited `[MM1]`
     - Spin-off Game `[SG]`
       - Final Fantasy: Unlimited with U `[SG1]`
@@ -382,3 +382,59 @@
     - Mainline Game `[MG]`
       - Final Fantasy Adventure `[MG1]`
       - Final Fantasy Mystic Quest `[MG2]`
+
+  - Stranger of Paradise Final Fantasy Origin `[SPFFO]`
+    - Mainline Game `[MG]`
+      - Strange of Paradise Final Fantasy Origin `[MG1]`
+    - Extra Content `[EC]`
+      - Trials of the Dragon King `[EC1]`
+      - Wanderer of the Rift `[EC2]`
+      - Different Future `[EC3]`
+
+  - Final Fantasy: The Spirits Within `[FFSW]`
+    - Mainline Media `[MM]`
+      - Final Fantasy: The Spirits Within `[MM1]`
+
+  - Final Fantasy Lost Stranger `[FFLS]`
+    - Mainline Media `[MM]`
+      - Final Fantasy Lost Stranger `[MM1]`
+
+  - Final Fantasy: The 4 Heroes of Light `[FF4HL]`
+    - Mainline Game `[MG]`
+      - Final Fantasy: The 4 Heroes of Light `[MG1]`
+
+  - Voice Fantasy `[VF]`
+    - Mainline Game `[MG]`
+      - Voice Fantasy `[MG1]`
+
+  - Final Fantasy Airborne Brigade `[FFAB]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Airborne Brigade `[MG1]`
+
+  - Final Fantasy All The Bravest `[FFATB]`
+    - Mainline Game `[MG]`
+      - Final Fantasy All The Bravest `[MG1]`
+
+  - Pictlogica Final Fantasy `[PFF]`
+    - Mainline Game `[MG]`
+      - Pictlogica Final Fantasy `[MG1]`
+
+  - Final Fantasy World Wide Words `[FFWWW]`
+    - Mainline Game `[MG]`
+      - Final Fantasy World Wide Words `[MG1]`
+
+  - Final Fantasy Record Keeper `[FFRK]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Record Keeper `[MG1]`
+
+  - Mobius Final Fantasy `[MFF]`
+    - Mainline Game `[MG]`
+      - Mobius Final Fantasy `[MG1]`
+
+  - Final Fantasy Digital Card Game `[FFDCG]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Digital Card Game `[MG1]`
+
+  - Dive II Hunt: The Adventures of Sorbet `[DIIH]`
+    - Mainline Game `[MG]`
+      - Dive II Hunt: The Adventures of Sorbet `[MG1]`
