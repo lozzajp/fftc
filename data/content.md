@@ -47,7 +47,7 @@
       - Lunar Ruins `[EC5]`
       - EX Dungeon `[EC6]`
     - Spin-off Games `[SG]`
-      - Final Fantasy IV: The After Years `[SG]`
+      - Final Fantasy IV: The After Years `[SG1]`
 
   - Final Fantasy V `[FFV]`
     - Mainline Game `[MG]`
@@ -85,6 +85,7 @@
         - Dirge of Cerberus `[SG5]`
         - Dirge of Cerberus Lost Episode `[SG6]`
         - Dirge of Cerberus PlayOnline `[SG7]`
+        - Ever Crisis `[SG8]`
       - Extra Media `[EM]`
         - Advent Children Complete `[EM1]`
         - Last Order `[EM2]`
