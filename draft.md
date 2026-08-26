@@ -1,7 +1,5 @@
 
 
-Final Fantasy Resonance
-
 Stranger of Paradise: Final Fantasy Origin
 
 FF The 4 Heroes of Light
@@ -39,15 +37,12 @@ Mobile:
     Pictlogica Final Fantasy
     FF Record Keeper
     FF Portal App
-    FF Brave Exvius
 
 Deprecated:
     FF Unlimited With U
     FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
-    War of the Visions: Final Fantasy Brave Exvius
     FF Artniks
     FF Artniks Dive
-    Final Fantasy Brave Exvius Tap!
     Final Fantasy Explorers-Force
     Voice Fantasy
     Final Fantasy Airborne Brigade

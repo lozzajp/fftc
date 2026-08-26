@@ -345,3 +345,11 @@
       - World of Final Fantasy Maxima `[EC2]`
     - Spin-off Game `[SG]`
       - World of Final Fantasy: Meli-Melo `[SG1]`
+
+  - Final Fantasy Brave Exvius `[FFBE]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Brave Exvius `[MG1]`
+      - Final Fantasy Resonance `[MG2]`
+    - Spin-off Game `[SG]`
+      - Final Fantasy Brave Exvius Tap! `[SG1]`
+      - War of the Visions: Final Fantasy Brave Exvius `[SG2]`
