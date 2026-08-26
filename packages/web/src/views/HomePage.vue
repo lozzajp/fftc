@@ -6,8 +6,10 @@
     <p class="tagline">A taxonomic reference of Final Fantasy content, games, releases, and media.</p>
 
     <p>
-      Browse <RouterLink to="/titles">Titles</RouterLink> to see everything for an entire title's collection, or
-      <RouterLink to="/releases">Releases</RouterLink> to look up what a specific release/bundle contains.
+      Check out <RouterLink to="/checklist">Checklist</RouterLink> to generate a list of content for a game you are interested
+      in or just make the whole list of everything!
+
+      <RouterLink to="/titles">Titles</RouterLink> and <RouterLink to="/releases">Releases</RouterLink> are very much WIP for now.
     </p>
 
     <p class="advanced">

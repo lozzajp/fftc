@@ -3,7 +3,7 @@
 <template>
   <div class="app-shell">
     <header>
-      <h1 class="title">FFTC</h1>
+      <h1 class="title"><RouterLink to="/">FFTC</RouterLink></h1>
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/titles">Titles</RouterLink>
@@ -35,6 +35,10 @@ header {
 .title {
   margin: 0;
   font-size: 1.25rem;
+}
+.title a {
+  color: inherit;
+  text-decoration: none;
 }
 nav {
   display: flex;

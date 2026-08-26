@@ -53,8 +53,6 @@ const categories = computed<DisplayCategory[]>(() => {
 
 <template>
   <section>
-    <p><RouterLink to="/">← Home</RouterLink></p>
-
     <p v-if="loading">Loading…</p>
     <p v-else-if="error" class="error">{{ error }}</p>
 

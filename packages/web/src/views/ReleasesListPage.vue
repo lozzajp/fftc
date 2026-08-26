@@ -14,7 +14,6 @@ function displayBreadcrumb(breadcrumb: string[]): string {
 
 <template>
   <section>
-    <p><RouterLink to="/">← Home</RouterLink></p>
     <h1>Releases</h1>
     <p class="hint">Look up what a specific release/bundle contains.</p>
 

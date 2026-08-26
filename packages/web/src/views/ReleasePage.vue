@@ -19,8 +19,6 @@ const resolvedRelease = computed(() => resolveRef(releaseRoots.value, releasePat
 
 <template>
   <section>
-    <p><RouterLink to="/">← Home</RouterLink></p>
-
     <p v-if="loading">Loading…</p>
     <p v-else-if="error" class="error">{{ error }}</p>
 

@@ -40,7 +40,6 @@ function download() {
 
 <template>
   <section>
-    <p><RouterLink to="/">← Home</RouterLink></p>
     <h1>Checklist Creator</h1>
 
     <p v-if="loading">Loading…</p>

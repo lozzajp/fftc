@@ -66,11 +66,9 @@ Mobile:
     Final Fantasy Legends: Toki no Suishō
     FF All The Bravest
     Pictlogica Final Fantasy
-    FF Agito
     FF Record Keeper
     FF Portal App
     FF Brave Exvius
-    FF Awakening
 
 Deprecated:
     FF Unlimited With U

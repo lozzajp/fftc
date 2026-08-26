@@ -13,7 +13,6 @@ function displayBreadcrumb(breadcrumb: string[]): string {
 
 <template>
   <section>
-    <p><RouterLink to="/">← Home</RouterLink></p>
     <h1>Titles</h1>
     <p class="hint">See every piece of content for an entire title's collection.</p>
 
