@@ -28,37 +28,28 @@ export function findSelectableNodes(contentRoots: TreeNode[]): SelectableNode[] 
   const titleNodes = findTitleNodes(contentRoots)
   const rootCode = normalizeCode(contentRoots[0]?.code)
 
-  const universeGroups = new Map<string, { label: string; breadcrumb: string[]; titlePaths: string[] }>()
-  const standalone: SelectableNode[] = []
+  const seenUniverses = new Set<string>()
+  const entries: SelectableNode[] = []
 
   for (const title of titleNodes) {
     const segments = title.path.split('.')
     const parentPath = segments.slice(0, -1).join('.')
 
-    standalone.push({ path: title.path, label: title.label, breadcrumb: title.breadcrumb, titlePaths: [title.path] })
-
-    if (rootCode !== undefined && parentPath !== rootCode) {
-      const existing = universeGroups.get(parentPath)
-      if (existing) {
-        existing.titlePaths.push(title.path)
-      } else {
-        universeGroups.set(parentPath, {
-          label: title.breadcrumb[title.breadcrumb.length - 2] ?? parentPath,
-          breadcrumb: title.breadcrumb.slice(0, -1),
-          titlePaths: [title.path],
-        })
-      }
+    if (rootCode !== undefined && parentPath !== rootCode && !seenUniverses.has(parentPath)) {
+      seenUniverses.add(parentPath)
+      const universeTitlePaths = titleNodes
+        .filter((t) => t.path.split('.').slice(0, -1).join('.') === parentPath)
+        .map((t) => t.path)
+      entries.push({
+        path: parentPath,
+        label: title.breadcrumb[title.breadcrumb.length - 2] ?? parentPath,
+        breadcrumb: title.breadcrumb.slice(0, -1),
+        titlePaths: universeTitlePaths,
+      })
     }
+
+    entries.push({ path: title.path, label: title.label, breadcrumb: title.breadcrumb, titlePaths: [title.path] })
   }
-
-  const universeEntries: SelectableNode[] = [...universeGroups.entries()].map(([path, g]) => ({
-    path,
-    label: g.label,
-    breadcrumb: g.breadcrumb,
-    titlePaths: g.titlePaths,
-  }))
-
-  const sorted = [...universeEntries, ...standalone].sort((a, b) => a.path.localeCompare(b.path))
 
   const allEntry: SelectableNode = {
     path: ALL_PATH,
@@ -67,7 +58,7 @@ export function findSelectableNodes(contentRoots: TreeNode[]): SelectableNode[] 
     titlePaths: titleNodes.map((t) => t.path),
   }
 
-  return [allEntry, ...sorted]
+  return [allEntry, ...entries]
 }
 
 export const ALL_PATH = '__all__'

@@ -181,49 +181,60 @@
       - Final Fantasy XI ~The Out of Orders~ `[RM1]`
 
   - The Ivalice Alliance `[FF-IA]`
-    - Mainline Game `[MG]`
-      - Final Fantasy XII `[MG1]`
-      - Final Fantasy Tactics `[MG2]`
-      - Final Fantasy Tactics A2: Grimoire of the Rift `[MG3]`
-      - Final Fantasy Tactics Advance `[MG4]`
-    - Extra Content `[EC]`
-      - Final Fantasy Tactics: War of the Lions `[EC1]`
-      - Final Fantasy Tactics A2: Prologue `[EC2]`
-      - Final Fantasy Tactics A2: Epilogue `[EC3]`
-      - War of the Lions' FMVs `[EC4]`
-      - Final Fantasy Tactics Advance Radio Edition `[EC5]`
-      - Final Fantasy XII: International Zodiac Job System `[EC6]`
-    - Spin-off Games `[SG]`
-      - Final Fantasy XII: Revenant Wings `[SG1]`
-      - Vagrant Story `[SG2]`
-      - Final Fantasy Tactics S `[SG3]`
+    - Final Fantasy XII `[FFXII]`
+      - Mainline Game `[MG]`
+        - Final Fantasy XII `[MG1]`
+      - Extra Content `[EC]`
+        - Final Fantasy XII: International Zodiac Job System `[EC1]`
+      - Spin-off Games `[SG]`
+        - Final Fantasy XII: Revenant Wings `[SG1]`
+    - Final Fantasy Tactics `[FFT]`
+      - Mainline Game `[MG]`
+        - Final Fantasy Tactics `[MG1]`
+        - Final Fantasy Tactics A2: Grimoire of the Rift `[MG2]`
+        - Final Fantasy Tactics Advance `[MG3]`
+      - Extra Content `[EC]`
+        - Final Fantasy Tactics: War of the Lions `[EC1]`
+        - Final Fantasy Tactics A2: Prologue `[EC2]`
+        - Final Fantasy Tactics A2: Epilogue `[EC3]`
+        - War of the Lions' FMVs `[EC4]`
+        - Final Fantasy Tactics Advance Radio Edition `[EC5]`
+      - Spin-off Games `[SG]`
+        - Final Fantasy Tactics S `[SG1]`
+    - Other Games `[OG]`
+      - Mainline Game `[MG]`
+        - Vagrant Story `[MG1]`
 
   - Fabula Nova Crystallis `[FNC]`
-    - Mainline Game `[MG]`
-      - FFXIII `[MG1]`
-      - FFXIII-2 `[MG2]`
-      - Lightning Returns: FFXIII `[MG3]`
-      - Final Fantasy Type-0 `[MG4]`
-    - Extra Media `[EM]`
-      - FFXIII Episode 0 -Promise- `[EM1]`
-      - FFXIII Side Story -A Dreaming Cocoon Falls into the Dawn- `[EM2]`
-      - FFXIII -Episode i- (Final Fantasy XIII -Corridor of Memory-) `[EM3]`
-      - FFXIII-2 Fragments Before `[EM4]`
-      - FFXIII-2 Fragments After `[EM5]`
-      - FFXIII Reminiscence -Tracer of Memories- `[EM6]`
-      - Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha `[EM7]`
-      - Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Omega `[EM8]`
-      - Final Fantasy Type-0 (Manga) `[EM9]`
-      - Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade `[EM10]`
-      - Final Fantasy Type-0: Change the World -The Answer- `[EM11]`
-      - Final Fantasy Type-0: Change the World -The Penultimate Truth- `[EM12]`
-    - Spin-off Games `[SG]`
-      - Final Fantasy Agito `[SG1]`
-      - Final Fantasy Awakening `[SG2]`
-    - Related Media `[RM]`
-      - Inside The Square: The Making of Lightning Returns: Final Fantasy XIII `[RM1]`
-    - Sub Content `[SC]`
-      - Final Fantasy XIII Series: Flash of Destiny (Ever Crisis) `[SC1]`
+    - Final Fantasy XIII `[FFXIII]`
+      - Mainline Game `[MG]`
+        - FFXIII `[MG1]`
+        - FFXIII-2 `[MG2]`
+        - Lightning Returns: FFXIII `[MG3]`
+      - Extra Media `[EM]`
+        - FFXIII Episode 0 -Promise- `[EM1]`
+        - FFXIII Side Story -A Dreaming Cocoon Falls into the Dawn- `[EM2]`
+        - FFXIII -Episode i- (Final Fantasy XIII -Corridor of Memory-) `[EM3]`
+        - FFXIII-2 Fragments Before `[EM4]`
+        - FFXIII-2 Fragments After `[EM5]`
+        - FFXIII Reminiscence -Tracer of Memories- `[EM6]`
+        - Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha `[EM7]`
+        - Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Omega `[EM8]`
+      - Related Media `[RM]`
+        - Inside The Square: The Making of Lightning Returns: Final Fantasy XIII `[RM1]`
+      - Sub Content `[SC]`
+        - Final Fantasy XIII Series: Flash of Destiny (Ever Crisis) `[SC1]`
+    - Final Fantasy Type-0 `[FFT0]`
+      - Mainline Game `[MG]`
+        - Final Fantasy Type-0 `[MG1]`
+      - Extra Media `[EM]`
+        - Final Fantasy Type-0 (Manga) `[EM1]`
+        - Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade `[EM2]`
+        - Final Fantasy Type-0: Change the World -The Answer- `[EM3]`
+        - Final Fantasy Type-0: Change the World -The Penultimate Truth- `[EM4]`
+      - Spin-off Games `[SG]`
+        - Final Fantasy Agito `[SG1]`
+        - Final Fantasy Awakening `[SG2]`
 
   - Final Fantasy XIV `[FFXIV]`
     - Final Fantasy XIV Original `[FFXIVOG]`
