@@ -2,9 +2,6 @@
 
 Final Fantasy Resonance
 
-World of Final Fantasy
-World of Final Fantasy Maxima (DLC on PS/Windows)
-
 Stranger of Paradise: Final Fantasy Origin
 
 FF The 4 Heroes of Light
@@ -47,7 +44,6 @@ Mobile:
 Deprecated:
     FF Unlimited With U
     FF Unlimited on PC (Final Fantasy: Unlimited on PC Adventure - Labyrinth?)
-    World of Final Fantasy: Meli-Melo
     War of the Visions: Final Fantasy Brave Exvius
     FF Artniks
     FF Artniks Dive

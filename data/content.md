@@ -337,3 +337,11 @@
       - Theatrhythm Final Bar Line `[MG3]`
     - Spin-off Game `[SG]`
       - Theatrhythm Final Fantasy All-Start carnival `[SG1]`
+
+  - World of Final Fantasy `[WFF]`
+    - Mainline Game `[MG]`
+      - World of Final Fantasy `[MG1]`
+    - Extra Content `[EC]`
+      - World of Final Fantasy Maxima `[EC2]`
+    - Spin-off Game `[SG]`
+      - World of Final Fantasy: Meli-Melo `[SG1]`
