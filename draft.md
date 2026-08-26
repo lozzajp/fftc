@@ -10,11 +10,6 @@ Stranger of Paradise: Final Fantasy Origin
 FF The 4 Heroes of Light
 FF Explorers
 
-Theatrhythm Final Fantasy
-Theatrhythm Final Fantasy: Curtain Call
-Theatrhythm Final Bar Line
-Theatrhythm Final Fantasy All-Star Carnival
-
 Chocobo:
     Chocobo Dungeon
     todo rest
@@ -43,7 +38,6 @@ Square:
     valkyrie profile?
 
 Mobile:
-    Final Fantasy Legends: Toki no Suishō
     FF All The Bravest
     Pictlogica Final Fantasy
     FF Record Keeper

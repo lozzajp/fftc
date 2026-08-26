@@ -329,3 +329,11 @@
     - Mainline Game `[MG]`
       - Final Fantasy Dimensions `[MG1]`
       - Final Fantasy Dimensions II `[MG2]`
+
+  - Theatrhythm Final Fantasy `[TFF]`
+    - Mainline Game `[MG]`
+      - Theatrhythm Final Fantasy `[MG1]`
+      - Theatrhythm Final Fantasy Curtain Call `[MG2]`
+      - Theatrhythm Final Bar Line `[MG3]`
+    - Spin-off Game `[SG]`
+      - Theatrhythm Final Fantasy All-Start carnival `[SG1]`
