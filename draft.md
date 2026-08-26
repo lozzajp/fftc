@@ -1,29 +1,5 @@
 
 
-Fabula Nova Crystallis:
-    FFXIII Episode 0 -Promise-
-    FFXIII
-    FFXIII Side Story -A Dreaming Cocoon Falls into the Dawn-
-    FFXIII -Episode i- (part of Final Fantasy XIII -Corridor of Memory-)
-    FFXIII-2 Fragments Before
-    FFXIII-2
-    FFXIII-2 Fragments After
-    Lightning Returns: FFXIII
-    FFXIII Reminiscence -Tracer of Memories-
-
-    Final Fantasy XIII Series: Flash of Destiny (Ever Crisis crossover)
-
-    Inside The Square: The Making of Lightning Returns: Final Fantasy XIII
-    (cancelled) Lightning Returns: Final Fantasy XIII Chronicle of Chaotic Era
-
-    FF Type-0 (and HD)
-        Manga Series
-        Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade
-        Final Fantasy Type-0: Change the World -The Answer-
-        Final Fantasy Type-0: Change the World -The Penultimate Truth-
-
-    FF Agito (deprecated)
-    FF Awakening (deprecated)
 
 FFXV
 Platinum Demo
@@ -44,15 +20,6 @@ Pocket Edition (and HD)
 Final Fantasy XV: War for Eos
 King's Knight -Wrath of the Dark Dragon- (deprecated)
 Final Fantasy XV: The Dawn of the Future
-
-FFXIV A Realm Reborn
-Heavensward
-Stormblood
-Shadowbringers
-Endwalker
-Dawntrail
-Evercold
-Final Fantasy XIV: Dad of Light
 
 FFXVI
 Echoes of the Fallen
@@ -147,6 +114,5 @@ Deprecated:
     Final Fantasy: World Wide Words
     Mobius Final Fantasy
     Final Fantasy Digital Card Game
-    FFXIV
     Dive II Hunt: The Adventures of Sorbet
     FFVI Interactive CG Demo

@@ -9,7 +9,7 @@
       - FFI Origins' FMVs `[EC3]`
     - Extra Media `[EM]`
       - Final Fantasy I (Final Fantasy I * II * III: Memory of Heroes) `[EM1]`
-      - Final Fantasy Manga (1989) `[EM2]`
+      - Final Fantasy (Manga) `[EM2]`
 
   - Final Fantasy II `[FFII]`
     - Mainline Game `[MG]`
@@ -127,20 +127,22 @@
       - Final Fantasy VIII `[MG1]`
     - Extra Content `[EC]`
       - Chocobo World (PocketStation) `[EC1]`
+    - Extra Media `[EM]`
+      - A Day of Instruction at Garden (Final Fantasy VIII Ultimania) `[EM1]`
     - Related Media `[RM]`
-      - A Day of Instruction at Garden (Final Fantasy VIII Ultimania) `[RM1]`
-      - Inside Final Fantasy VIII Remastered `[RM2]`
-      - Final Fantasy VIII Desktop Accessories `[RM3]`
-    - Sub Content `[SC]`
-      - A Resonant Waltz (Ever Crisis) `[SC1]`
+      - Inside Final Fantasy VIII Remastered `[RM1]`
+      - Final Fantasy VIII Desktop Accessories `[RM2]`
 
   - Final Fantasy IX `[FFIX]`
     - Mainline Game `[MG]`
       - Final Fantasy IX `[MG1]`
+    - Extra Media `[EM]`
+      - Final Fantasy IX: The Black Mages' Legacy `[EM1]`
     - Related Media `[RM]`
       - Tetra Master (PlayOnline) `[RM1]`
       - Inside Final Fantasy IX `[RM2]`
-      - Final Fantasy IX: The Black Mages' Legacy `[RM3]`
+    - Sub Content `[SC]`
+      - A Resonant Waltz (Ever Crisis) `[SC1]`
 
   - Final Fantasy X `[FFX]`
     - Mainline Game `[MG]`
@@ -175,7 +177,7 @@
     - Related Media `[RM]`
       - Final Fantasy XI ~The Out of Orders~ `[RM1]`
 
-  - The Ivalice Chronicles `[FF-IC]`
+  - The Ivalice Alliance `[FF-IA]`
     - Mainline Game `[MG]`
       - Final Fantasy XII `[MG1]`
       - Final Fantasy Tactics `[MG2]`
@@ -192,11 +194,32 @@
       - Final Fantasy XII: Revenant Wings `[SG1]`
       - Vagrant Story `[SG2]`
 
-  - Final Fantasy XII `[FFXII]`
-    - TODO
-
-  - Final Fantasy XIII `[FFXIII]`
-    - TODO
+  - Fabula Nova Crystallis `[FNC]`
+    - Mainline Game `[MG]`
+      - FFXIII `[MG1]`
+      - FFXIII-2 `[MG2]`
+      - Lightning Returns: FFXIII `[MG3]`
+      - Final Fantasy Type-0 `[MG4]`
+    - Extra Media `[EM]`
+      - FFXIII Episode 0 -Promise- `[EM1]`
+      - FFXIII Side Story -A Dreaming Cocoon Falls into the Dawn- `[EM2]`
+      - FFXIII -Episode i- (Final Fantasy XIII -Corridor of Memory-) `[EM3]`
+      - FFXIII-2 Fragments Before `[EM4]`
+      - FFXIII-2 Fragments After `[EM5]`
+      - FFXIII Reminiscence -Tracer of Memories- `[EM6]`
+      - Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha `[EM7]`
+      - Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Omega `[EM8]`
+      - Final Fantasy Type-0 (Manga) `[EM9]`
+      - Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade `[EM10]`
+      - Final Fantasy Type-0: Change the World -The Answer- `[EM11]`
+      - Final Fantasy Type-0: Change the World -The Penultimate Truth- `[EM12]`
+    - Spin-off Games `[SG]`
+      - Final Fantasy Agito `[SG1]`
+      - Final Fantasy Awakening `[SG2]`
+    - Related Media `[RM]`
+      - Inside The Square: The Making of Lightning Returns: Final Fantasy XIII `[RM1]`
+    - Sub Content `[SC]`
+      - Final Fantasy XIII Series: Flash of Destiny (Ever Crisis) `[SC1]`
 
   - Final Fantasy XIV `[FFXIV]`
     - Final Fantasy XIV Original `[FFXIVOG]`
