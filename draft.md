@@ -13,20 +13,13 @@ FF Explorers
 Theatrhythm Final Fantasy
 Theatrhythm Final Fantasy: Curtain Call
 Theatrhythm Final Bar Line
+Theatrhythm Final Fantasy All-Star Carnival
 
 Chocobo:
     Chocobo Dungeon
     todo rest
     Chocobo de Battle - Chocobo no Fushigina Dungeon - Chocobo's Dungeon 2 - Chocobo World - Chocobo Racing - Chocobo Stallion - Dice de Chocobo - Hataraku Chocobo - Chocobo de Mobile - Final Fantasy Fables: Chocobo Tales - Final Fantasy Fables: Chocobo's Dungeon (Final Fantasy Fables: Chocobo's Dungeon DS+ - Chocobo's Mystery Dungeon Every Buddy!) - Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha - Chocobo Racing 3D - Chocobo Panic - Chocobo's Crystal Tower - Chocobo GP' - Chocobo GP
 
-Dissidia:
-    Dissidia Prologus
-    Dissidia Final Fantasy
-    Dissidia 012 Final Fantasy
-    Dissidia Final Fantasy -Arcade-
-    Dissidia Final Fantasy Opera Omnia
-    Dissidia Final Fantasy NT
-    Dissidia Duellum Final Fantasy
 
 Crystal Chronicles:
     FF Crystal Chronicles (and remastered)

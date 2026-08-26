@@ -46,7 +46,7 @@
       - Cave of Trials `[EC4]`
       - Lunar Ruins `[EC5]`
       - EX Dungeon `[EC6]`
-    - Spin-off Games `[SG]`
+    - Spin-off Game `[SG]`
       - Final Fantasy IV: The After Years `[SG1]`
 
   - Final Fantasy V `[FFV]`
@@ -68,7 +68,7 @@
       - Soul Shrine `[EC3]`
     - Extra Media `[EM]`
       - The Marriage of Figaro: Tales from Desert `[EM1]`
-    - Spin-off Games `[SG]`
+    - Spin-off Game `[SG]`
       - Final Fantasy VI Interactive CG Demo `[SG1]`
 
   - Final Fantasy VII `[FFVII]`
@@ -77,7 +77,7 @@
         - Final Fantasy VII `[MG1]`
       - Extra Content `[EC]`
         - Final Fantasy VII: Perfect Guide ("4th Disc") `[EC1]`
-      - Spin-off Games `[SG]`
+      - Spin-off Game `[SG]`
         - Before Crisis `[SG1]`
         - Crisis Core `[SG2]`
         - Final Fantasy VII: Snowboarding `[SG3]`
@@ -109,7 +109,7 @@
         - Revelation `[MG3]`
       - Extra Content `[EC]`
         - Remake Intergrade (Intermission) `[EC1]`
-      - Spin-off Games `[SG]`
+      - Spin-off Game `[SG]`
         - First Soldier (Mobile) `[SG1]`
       - Extra Media `[EM]`
         - Final Fantasy VII Remake: Traces of Two Pasts `[EM1]`
@@ -175,7 +175,7 @@
       - Seekers of Adoulin `[EC11]`
       - Rhapsodies of Vana’Diel `[EC12]`
       - The Voracious Resurgence `[EC13]`
-    - Spin-off Games `[SG]`
+    - Spin-off Game `[SG]`
       - Final Fantasy Grandmasters `[SG1]`
     - Related Media `[RM]`
       - Final Fantasy XI ~The Out of Orders~ `[RM1]`
@@ -186,7 +186,7 @@
         - Final Fantasy XII `[MG1]`
       - Extra Content `[EC]`
         - Final Fantasy XII: International Zodiac Job System `[EC1]`
-      - Spin-off Games `[SG]`
+      - Spin-off Game `[SG]`
         - Final Fantasy XII: Revenant Wings `[SG1]`
     - Final Fantasy Tactics `[FFT]`
       - Mainline Game `[MG]`
@@ -200,7 +200,7 @@
         - War of the Lions' FMVs `[EC4]`
         - Final Fantasy Tactics Advance Radio Edition `[EC5]`
         - Final Fantasy Tactics Enhanced (The Ivalice Chronicles) `[EC6]`
-      - Spin-off Games `[SG]`
+      - Spin-off Game `[SG]`
         - Final Fantasy Tactics S `[SG1]`
     - Other Games `[OG]`
       - Mainline Game `[MG]`
@@ -233,7 +233,7 @@
         - Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade `[EM2]`
         - Final Fantasy Type-0: Change the World -The Answer- `[EM3]`
         - Final Fantasy Type-0: Change the World -The Penultimate Truth- `[EM4]`
-      - Spin-off Games `[SG]`
+      - Spin-off Game `[SG]`
         - Final Fantasy Agito `[SG1]`
         - Final Fantasy Awakening `[SG2]`
 
@@ -265,7 +265,7 @@
       - Episode Prompto `[EC5]`
       - Episode Ignis `[EC6]`
       - Comrades `[EC7]`
-    - Spin-off Games `[SG]`
+    - Spin-off Game `[SG]`
       - Justice Monsters Five `[SG1]`
       - Final Fantasy XV: A New Empire `[SG2]`
       - Monster of the Deep: Final Fantasy XV `[SG3]`
@@ -289,3 +289,17 @@
       - Final Fantasy XVI Demo `[EC1]`
       - Echos of the Fallen `[EC2]`
       - The Rising Tide `[EC3]`
+
+  - Dissidia Final Fantasy `[DFF]`
+    - Mainline Game `[MG]`
+      - Dissidia Final Fantasy `[MG1]`
+      - Dissidia 012 Final Fantasy `[MG2]`
+      - Dissidia Final Fantasy NT `[MG3]`
+      - Dissidia Duellum Final Fantasy `[MG4]`
+    - Spin-off Game `[SG]`
+      - Dissidia Final Fantasy Opera Omnia `[SG1]`
+      - Dissidia Final Fantasy (Arcade) `[SG2]`
+    - Extra Content `[EC]`
+      - Dissidia Duodecim Prologus Final Fantasy `[EC1]`
+    - Related Media `[RM]`
+      - Dissidia Final Fantasy: Secretum -Himitsu- `[RM1]`
