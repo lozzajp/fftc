@@ -23,9 +23,6 @@ Chocobo:
 
 
 Tangential:
-    FF Legend
-    FF Legend 2
-    FF Legend 3
     FF Adventure
     FF Mystic Quest
 
@@ -46,8 +43,6 @@ Square:
     valkyrie profile?
 
 Mobile:
-    FF Dimensions
-    FF Dimensions II
     Final Fantasy Legends: Toki no Suishō
     FF All The Bravest
     Pictlogica Final Fantasy

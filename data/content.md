@@ -318,3 +318,14 @@
     - Extra Media `[EM]`
       - Final Fantasy Crystal Chronicles: Beyond the Endless Sky `[EM1]`
       - Final Fantasy Crystal Chronicles: Ring of Fates 4-Panel Anthology Comic `[EM2]`
+
+  - Final Fantasy Legend `[FFL]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Legend `[MG1]`
+      - Final Fantasy Legend II `[MG2]`
+      - Final Fantasy Legend III `[MG3]`
+
+  - Final Fantasy Dimensions `[FFD]`
+    - Mainline Game `[MG]`
+      - Final Fantasy Dimensions `[MG1]`
+      - Final Fantasy Dimensions II `[MG2]`
