@@ -3,27 +3,35 @@ import { computed, ref } from 'vue'
 import { useMarkdownTree } from '../composables/useMarkdownTree'
 import { findSelectableNodes, ALL_PATH } from '../parser/navigation'
 import { buildChecklistTitles, checklistToMarkdown } from '../parser/checklist'
+import { buildTimelinePositionIndex } from '../parser/facts'
 
 const { tree: contentRoots, loading: contentLoading, error: contentError } = useMarkdownTree('/data/content.md')
 const { tree: releaseRoots, loading: releasesLoading, error: releasesError } = useMarkdownTree('/data/releases.md')
+const { tree: factRoots, loading: factsLoading, error: factsError } = useMarkdownTree('/data/facts.md')
 
-const loading = computed(() => contentLoading.value || releasesLoading.value)
-const error = computed(() => contentError.value ?? releasesError.value)
+const loading = computed(() => contentLoading.value || releasesLoading.value || factsLoading.value)
+const error = computed(() => contentError.value ?? releasesError.value ?? factsError.value)
 
 const selectableNodes = computed(() => findSelectableNodes(contentRoots.value))
 const selectedPath = ref('')
 
 const selected = computed(() => selectableNodes.value.find((n) => n.path === selectedPath.value))
 const includeHeadingCheckboxes = ref(true)
+const orderByTimeline = ref(false)
+
+const timelineIndex = computed(() => buildTimelinePositionIndex(factRoots.value))
 
 const checklistTitles = computed(() => {
   if (!selected.value) return []
-  return buildChecklistTitles(contentRoots.value, releaseRoots.value, selected.value.titlePaths)
+  return buildChecklistTitles(contentRoots.value, releaseRoots.value, selected.value.titlePaths, timelineIndex.value)
 })
 
 const markdown = computed(() => {
   if (!selected.value) return ''
-  return checklistToMarkdown(selected.value.label, checklistTitles.value, includeHeadingCheckboxes.value)
+  return checklistToMarkdown(selected.value.label, checklistTitles.value, {
+    includeHeadingCheckboxes: includeHeadingCheckboxes.value,
+    orderByTimeline: orderByTimeline.value,
+  })
 })
 
 function download() {
@@ -60,6 +68,10 @@ function download() {
           <label class="checkbox-toggle">
             <input type="checkbox" v-model="includeHeadingCheckboxes" />
             Include checkboxes on sections
+          </label>
+          <label class="checkbox-toggle">
+            <input type="checkbox" v-model="orderByTimeline" />
+            Order by universe timeline
           </label>
           <button type="button" @click="download">Download .md</button>
         </div>
