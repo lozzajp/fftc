@@ -141,6 +141,7 @@
       - Final Fantasy IX `[MG1]`
     - Extra Media `[EM]`
       - Final Fantasy IX: The Black Mages' Legacy `[EM1]`
+      - Final Fantasy IX: Vivi and Grandpa's Memories for the Sky `[EM2]`
     - Related Media `[RM]`
       - Tetra Master (PlayOnline) `[RM1]`
       - Inside Final Fantasy IX `[RM2]`
@@ -253,6 +254,10 @@
         - Endwalker `[EC4]`
         - Dawntrail `[EC5]`
         - Evercold `[EC6]`
+      - Extra Media `[EM]`
+        - FINAL FANTASY XIV: Chronicles of Light `[EM1]`
+        - FINAL FANTASY XIV: Chronicles of Light Volume II `[EM2]`
+        - FINAL FANTASY XIV: Eorzea Academy `[EM3]`
       - Related Media `[RM]`
         - Final Fantasy XIV: Dad of Light `[RM1]`
 
