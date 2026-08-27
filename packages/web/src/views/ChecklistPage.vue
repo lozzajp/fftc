@@ -14,6 +14,7 @@ const selectableNodes = computed(() => findSelectableNodes(contentRoots.value))
 const selectedPath = ref('')
 
 const selected = computed(() => selectableNodes.value.find((n) => n.path === selectedPath.value))
+const includeHeadingCheckboxes = ref(true)
 
 const checklistTitles = computed(() => {
   if (!selected.value) return []
@@ -22,7 +23,7 @@ const checklistTitles = computed(() => {
 
 const markdown = computed(() => {
   if (!selected.value) return ''
-  return checklistToMarkdown(selected.value.label, checklistTitles.value)
+  return checklistToMarkdown(selected.value.label, checklistTitles.value, includeHeadingCheckboxes.value)
 })
 
 function download() {
@@ -56,6 +57,10 @@ function download() {
 
       <template v-if="selected">
         <div class="toolbar">
+          <label class="checkbox-toggle">
+            <input type="checkbox" v-model="includeHeadingCheckboxes" />
+            Include checkboxes on sections
+          </label>
           <button type="button" @click="download">Download .md</button>
         </div>
         <pre class="preview">{{ markdown }}</pre>
@@ -78,6 +83,16 @@ function download() {
 }
 .toolbar {
   margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.checkbox-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9em;
+  cursor: pointer;
 }
 .toolbar button {
   padding: 0.4rem 0.9rem;

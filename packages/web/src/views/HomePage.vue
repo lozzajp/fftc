@@ -8,7 +8,9 @@
     <p>
       Check out <RouterLink to="/checklist">Checklist</RouterLink> to generate a list of content for a game you are interested
       in or just make the whole list of everything!
+    </p>
 
+    <p>
       <RouterLink to="/titles">Titles</RouterLink> and <RouterLink to="/releases">Releases</RouterLink> are very much WIP for now.
     </p>
 

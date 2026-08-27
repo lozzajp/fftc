@@ -50,17 +50,22 @@ export function buildChecklistTitles(
   })
 }
 
-export function checklistToMarkdown(heading: string, titles: ChecklistTitle[]): string {
+export function checklistToMarkdown(
+  heading: string,
+  titles: ChecklistTitle[],
+  includeHeadingCheckboxes = true,
+): string {
   const multiTitle = titles.length > 1
-  const lines: string[] = [`# ${heading} - Checklist - [ ]`, '']
+  const box = includeHeadingCheckboxes ? ' - [ ]' : ''
+  const lines: string[] = [`# ${heading} - Checklist${box}`, '']
 
   for (const title of titles) {
-    if (multiTitle) lines.push(`## ${title.label} - [ ]`, '')
+    if (multiTitle) lines.push(`## ${title.label}${box}`, '')
 
     for (const category of title.categories) {
       if (!category.items.length) continue
 
-      lines.push(multiTitle ? `### ${category.label} - [ ]` : `## ${category.label} - [ ]`, '')
+      lines.push(multiTitle ? `### ${category.label}${box}` : `## ${category.label}${box}`, '')
       for (const item of category.items) {
         lines.push(`- ${item.label} - [ ]`)
       }
